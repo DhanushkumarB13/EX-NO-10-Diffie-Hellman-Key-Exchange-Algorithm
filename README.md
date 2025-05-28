@@ -1,5 +1,10 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
+```
+NAME: B.DHANUSH KUMAR
+REG NO: 212224240034
+```
+
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
